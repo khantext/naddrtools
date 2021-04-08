@@ -8,7 +8,4 @@ naddrtools is a library, written in Python, for manipulating strings which repre
 :copyright: (c) 2021
 """
 
-# from .naddrtools import buff_range
-# from .naddrtools import build_ipset
-# from .naddrtools import convert_ipset_to_ranges_as_string
 from .naddrtools import *
